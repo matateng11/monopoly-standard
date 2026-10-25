@@ -1,0 +1,6 @@
+{
+  "name": "Monopoli Online Multiplayer",
+  "description": "Game papan Monopoli klasik real-time dengan aturan standar internasional/Indonesia untuk hingga 4 pemain, lengkap dengan jual beli properti, rumah & hotel, lelang, perdagangan, kartu kesempatan, dan penjara.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
